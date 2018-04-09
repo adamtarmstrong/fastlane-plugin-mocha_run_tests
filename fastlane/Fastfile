@@ -1,0 +1,5 @@
+lane :test do
+  mocha_run_tests(
+    mocha_js_file_name: '/Users/adamarmstrong/Appium_Tests/custom_app_mocha_test_filename.js'
+  )
+end
