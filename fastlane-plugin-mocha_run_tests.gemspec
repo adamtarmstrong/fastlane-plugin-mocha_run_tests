@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.email         = 'me@adamtarmstrong.com'
 
   spec.summary       = 'Run Mocha Tests from within fastlane'
-  # spec.homepage    = "https://github.com/adamtarmstrong/fastlane-plugin-mocha_run_tests"
+  spec.homepage    = "https://github.com/adamtarmstrong/fastlane-plugin-mocha_run_tests"
   spec.license       = "MIT"
 
   spec.files         = Dir["lib/**/*"] + %w(README.md LICENSE)
